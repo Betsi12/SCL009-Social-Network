@@ -1,6 +1,7 @@
 ***
  ## Readme Social Network ⭐️⭐️
 ***
+![Foto-Presentación](src\assets\img\Foto-presentacion.jpg)
 
 Para el proyecto de Red Social se creó una red pensada en los amantes del teatro a la que podrán acceder directamente en sus teléfonos móviles, llamada Sala Red de Teatro.
 
